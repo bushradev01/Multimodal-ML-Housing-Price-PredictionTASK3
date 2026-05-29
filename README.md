@@ -377,3 +377,7 @@ The project provided hands-on experience in:
 
 and demonstrated how combining multiple data sources can improve machine learning applications.
 
+
+The multimodal deep learning model successfully learned patterns from both image and tabular data. Although the prediction error remained relatively high due to dataset limitations and the use of a basic CNN architecture, the project effectively demonstrated the implementation of multimodal feature fusion for housing price prediction.
+
+
